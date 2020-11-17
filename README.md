@@ -2,4 +2,4 @@
 
 ### See [Data_Scientist_Project.pdf](Data_Scientist_Project.pdf) for challenge prompt
 
-### See [Data_Science_Challenge_Report_HValk.pdf](Data_Scientist_Project.pdf) for summary of solution
+### See [Data_Science_Challenge_Report_HValk.pdf](Data_Science_Challenge_Report_HValk.pdf) for summary of solution
